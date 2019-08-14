@@ -1,5 +1,5 @@
 function happyHolidays(string){
-  return string.toUpperCase()
+  return string()
 }
 
 happyHolidays("Happy holidays!")
