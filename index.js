@@ -2,7 +2,7 @@ function happyHolidays(string){
   return("Happy holidays!")
 }
 
-var  = "Travis"
+var $name = ("Travis")
 
 function happyHolidaysTo(string){
   return("Happy holidays, ${name}!")
