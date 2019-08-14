@@ -1,7 +1,9 @@
-var $name = 'Travis'
-var $holiday = 'Independence day'
+var $name = 'Travis';
+var $holiday = 'Independence day';
 
-console.log 
+console.log('${name}:');
+console.log(Travis);
+
 function happyHolidays(string){
   return("Happy holidays!")
 }
@@ -11,5 +13,5 @@ function happyHolidaysTo(string){
 }
 
 function happyHolidayst(string){
-  return("Happy ${holiday}, ${name}")
+ return("Happy ${holiday}, ${name}!")
 }
