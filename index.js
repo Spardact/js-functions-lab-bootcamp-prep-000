@@ -1,4 +1,4 @@
-var $name= 'Travis';
+var $name = 'Travis'
 
 function happyHolidays(string){
   return("Happy holidays!")
