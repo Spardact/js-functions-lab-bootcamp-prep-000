@@ -1,9 +1,10 @@
+var $name= 'Travis';
+
 function happyHolidays(string){
-  
   return("Happy holidays!")
 }
 
 function happyHolidaysTo(string){
-  return("Happy holidays, you!")
+  return("Happy holidays,${name}!")
 }
 
